@@ -11,6 +11,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Braches will be helpful in situations where i have to make an experimental feature in program.Braches will make another branch by not overlapping with my main or master branch.
 
 How do the diagrams help you visualize the branch structure?
 
