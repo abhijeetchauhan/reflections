@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff helped me alot if i had to go through all the document manually it would have taken me 3-4 hours without any guarantee of finding the bug.With diff command it only took me about a min to  find the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If we are having entire history of a file we can easily find bugs in new file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros:1.Too much flexibilty
+         2.Can work as per requirement i.e. no compulsion on when versions are to be saved
+    cons:1.Versions created automatically helps to make a version because sometimes humans forgets to make one
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    i think saving multiple files in one commint is very useful because we can easily see the changes made in these files.It is even more useful for files that are interrelated like html,css and javascript.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used to view the changes after every commit .we have to be in the folder of the repository to use it .git diff is similar to the diff command in linux and we need to put the id of different version of files to compare them.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I think version control have an immense power if used properly as we have seen in the example of the video finding that why were bullet were shooting too fast was very easy job.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like use it for my projects and i also want to contribute to open source.
