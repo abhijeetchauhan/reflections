@@ -18,6 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Result was that now our game have both feature of color and coin.we represent it in diagram to get better understanding.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
