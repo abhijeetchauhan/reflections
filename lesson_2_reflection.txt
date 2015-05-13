@@ -14,6 +14,7 @@ organized? How would branches help?
 	Braches will be helpful in situations where i have to make an experimental feature in program.Braches will make another branch by not overlapping with my main or master branch.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams are really helpful in visualizing the branch structure they made the concept of branches crystal clear.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
